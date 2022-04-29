@@ -1,0 +1,1 @@
+javascript:(function(){document.body.contentEditable = !(document.body.contentEditable != 'true');})();
